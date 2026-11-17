@@ -10,9 +10,6 @@ tests, security scanning, containerization, Kubernetes deployment, infrastructur
 as code, and observability. This repo is meant to demonstrate DevOps practice
 end-to-end, not just a "hello world" in a Dockerfile.
 
-> Replace `mukesh-ma` in badge URLs and `k8s/deployment.yaml` with your GitHub username
-> before deploying.
-
 ## Why this project
 
 Most portfolio DevOps projects containerize a static site. This one instead ships
